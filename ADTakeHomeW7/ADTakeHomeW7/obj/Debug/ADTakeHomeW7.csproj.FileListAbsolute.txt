@@ -1,0 +1,11 @@
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\bin\Debug\ADTakeHomeW7.exe.config
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\bin\Debug\ADTakeHomeW7.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\bin\Debug\ADTakeHomeW7.pdb
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.csproj.AssemblyReference.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.csproj.SuggestedBindingRedirects.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.Form1.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.Properties.Resources.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.csproj.GenerateResource.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w7 ad\ADTakeHomeW7\ADTakeHomeW7\obj\Debug\ADTakeHomeW7.pdb
